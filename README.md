@@ -1,5 +1,13 @@
 # Server Mappings
 
+## Why this fork
+
+The goal of this fork is to maintain data for our own specific needs, extra data are stored in the `extra.json` file for each server. We may also add servers or metadata if something is missing. Note that when adding a server we may not follow every guideline of the original repository as we do not need all these pieces of information at the moment. We will most likely only add server IPs and server names, and maybe a server icon.
+
+## Note on the "online-mode" extra data
+
+The "online-mode" is by default set to `false` for every server. It is set to `true` exclusively if we managed to successfully check that the server is indeed in "online-mode".
+
 ## Summary
 
 This is a public mapping of server IPs <-> a pretty display name. This data is used extensively around Lunar Client, most notably when displaying server names (or "Private Server", if unknown) on the friends list. Historically, this mapping was handled internally, and server owners did not have a good way to manage data for their server.
