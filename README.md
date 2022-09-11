@@ -8,65 +8,8 @@ The goal of this fork is to maintain data for our own specific needs, extra data
 
 The "online-mode" is by default set to `false` for every server. It is set to `true` exclusively if we managed to successfully check that the server is indeed in "online-mode".
 
-## Summary
+## Contributing
 
-This is a public mapping of server IPs <-> a pretty display name. This data is used extensively around Lunar Client, most notably when displaying server names (or "Private Server", if unknown) on the friends list. Historically, this mapping was handled internally, and server owners did not have a good way to manage data for their server.
+If you want to contribute to this repository, we suggest you do so on the original repository, as we will apply the updates here as well. But if you do not want to follow the guidelines of the original repository as it requires much data, or if you want to edit the extra data, you can contribute here.
 
-## How do I add/update/remove a server?
-
-Each server in ServerMappings is represented by a folder with an accompanying `metadata.json` and `logo.png`. Open a pull requrest in this repository whilst following the steps below, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes. Check out `metadata.example.json` as an example of how to structure your metadata file.
-
-## IP Addresses
-
-The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["lunar.gg", "other.domain"]` will match `lunar.gg`, `na.lunar.gg`, `play.other.domain`, and so on.
-
-## Primary Info & Minecraft Versions
-
-We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array. The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18, 1.19)*; The `primaryMinecraftVersion` field must be a version included in the `minecraftVersions` array. **The versions you include must be versions that are directly offered in Lunar Client**, which can be found in the version selector of the Lunar Client Launcher.
-
-## Logos
-
-In addition to the data that you will need to provide in your `metadata.json`, you will need to upload a `.png` version of your logo into the same folder. All images are to be _transparent_, _square (1:1 aspect ratio)_, and _a minimum of 512px in width and height_. The file name should be `logo.png`. We require the logo to be large as we perform a number of different transformations for all the various places in Lunar Client!
-
-## Backgrounds
-
-Servers are also required to provide background image, you will need to upload a `.png` version of the background into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should be `background.png`. Backgrounds should be free of marketing, text, and/or any logos (that isn't part of a build).
-
-## Regions
-
-In your `metadata.json`, you can define both a `primaryRegion` and `regions` which your server supports. Below is a table of the regions.
-
-| Region Code | Name |
-| --- | --- |
-| AF | Africa |
-| AS | Asia |
-| EU | Europe |
-| NA | North America |
-| OC | Oceania |
-| SA | South America |
-
-## Game Types
-
-Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, and `Adventure`.
-
-You can add up to 3 unique types on the `gameTypes` field in your `metadata.json`.
-
-## Restrictions
-
-We ask that this repository is only used to store mappings for *public* Minecraft servers. Some server IPs, such as private SMPs, tournament servers, etc. should not be listed in this repository, out of respect for privacy.
-
-Lunar Client also reserves the right to omit any servers that do not comply with our [Terms of Service](https://www.lunarclient.com/terms).
-
-## Inactive Server Policy
-
-If a server has closed down or has not been joinable for at least 3 months, we will add it to the `inactive.json`. This just flags our internal systems to not include the server in various place, but still retains all of the branding and other metadata you submit.
-
-If you think your server has been added to this list by mistake, please make a support ticket at the link below.
-
-## Can I use this data for ___?
-
-Go for it.
-
-## Any other questions?
-
-Please contact us at [support.lunarclient.com](https://support.lunarclient.com) for any additional questions.
+To be clear all the rules of the original repository apply here as well, the only thing that differs is that we do not require you to submit all the information, only the server name and at least one IP suffix are required.
