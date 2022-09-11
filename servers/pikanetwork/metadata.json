@@ -2,6 +2,7 @@
     "id": "pikanetwork",
     "name": "PikaNetwork",
     "addresses": [
-        "pika-network.net"
+        "pika-network.net",
+        "pika.host"
     ]
 }

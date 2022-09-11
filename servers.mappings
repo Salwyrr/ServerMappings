@@ -1,0 +1,603 @@
+id:acentra;AcentraMC;false;true;
+ip:acentramc.com;acentra
+id:aetheriamc;AetheriaMC;false;true;
+ip:aetheria.world;aetheriamc
+ip:aetheriamc.xyz;aetheriamc
+id:akumamc;AkumaMC;true;true;
+ip:akumamc.net;akumamc
+id:alphahq;AlphaHQ Network;true;false;
+ip:alphahq.org;alphahq
+ip:syrex.dev;alphahq
+id:alpharip;Alpha Network;false;false;
+ip:alpha.rip;alpharip
+id:antiac;AntiAC;true;false;
+ip:antiac.net;antiac
+id:antique;Antique Network;false;false;
+ip:antique.gg;antique
+id:aplaxy;Aplaxy Network;false;false;
+ip:aplaxy.net;aplaxy
+id:aquariusmc;AquariusMC;false;true;#4bd5fa
+ip:aquariusmc.it;aquariusmc
+id:arashimc;ArashiMC;false;false;
+ip:arashimc.fr;arashimc
+ip:mhauhc.fr;arashimc
+id:arcane;Arcane Network;false;false;
+ip:arcane.cc;arcane
+id:ariacraft;AriaCraft;false;true;
+ip:accentry.cn;ariacraft
+ip:zqat.top;ariacraft
+id:ascendantmc;AscendantMC;false;false;
+ip:ascendantmc.net;ascendantmc
+id:astralmc;AstralMC;false;true;
+ip:astralmc.cc;astralmc
+id:awitamc;AwitaMC Network;false;false;
+ip:awitamc.net;awitamc
+id:backplay;BackPlay;false;true;
+ip:backplay.net;backplay
+id:baldymc;BaldyMC;true;true;
+ip:baldymc.com;baldymc
+ip:baldymc.xyz;baldymc
+id:battle;Battle Network;false;true;
+ip:battle.rip;battle
+id:bedwarspractice;Bedwars Practice;true;true;
+ip:bedwarspractice.club;bedwarspractice
+id:beepvp;Bee PVP;false;false;
+ip:beepvp.com;beepvp
+id:betterpvp;BetterPvP;false;true;
+ip:betterpvp.pl;betterpvp
+id:betterpvpnt;BetterPvP Network;false;true;
+ip:betterpvp.club;betterpvpnt
+id:blocksmc;BlocksMC;false;true;
+ip:blocksmc.com;blocksmc
+id:blurkit;Blurkit Network;false;true;
+ip:blurkit.net;blurkit
+id:brawl;Brawl;true;true;
+ip:mcbrawl.com;brawl
+ip:brawl.com;brawl
+ip:brawl.network;brawl
+ip:mc-war.com;brawl
+ip:minecraftparty.com;brawl
+ip:mcctf.com;brawl
+ip:mcpvp.com;brawl
+ip:minecraftpvp.com;brawl
+ip:mc-warz.com;brawl
+ip:minecraftbuild.com;brawl
+id:bridgepractice;BridgePractice.net;true;true;
+ip:bridgepractice.net;bridgepractice
+id:bridgerland;Bridger Land;false;false;
+ip:bridger.land;bridgerland
+id:brithnobar;Brithnobar;false;true;
+ip:brithnobar.com;brithnobar
+id:cavepvp;CavePvP;true;true;
+ip:cavepvp.org;cavepvp
+id:cavrynetwork;Cavry Network;false;false;
+ip:cavrynetwork.xyz;cavrynetwork
+ip:cavrynet.work;cavrynetwork
+id:certix;Certix Network;true;false;
+ip:certix.cc;certix
+id:chillcenter;ChillCenter;false;false;
+ip:chillcenter.cc;chillcenter
+id:clashmc;ClashMC Network;false;false;#AA0000
+ip:clashmc.org;clashmc
+id:cloudnetwork;CloudNetwork.cc;false;false;
+ip:cloudnetwork.cc;cloudnetwork
+id:cobaltclub;Cobalt Club;true;true;
+ip:cobalt.club;cobaltclub
+id:coldnetwork;ColdNetwork;false;true;
+ip:coldnetwork.net;coldnetwork
+ip:coldpvp.com;coldnetwork
+id:combo;Combo Network;true;false;
+ip:combo.rip;combo
+id:comugamers;ComuGamers Network;false;false;
+ip:comugamers.net;comugamers
+ip:comugamers.com;comugamers
+ip:comugamers.eu;comugamers
+ip:comugamers.org;comugamers
+ip:gamezchile.cl;comugamers
+id:coralmc;CoralMC;false;true;
+ip:coralmc.it;coralmc
+id:craftplay;CraftPlay;false;false;
+ip:craftplay.pl;craftplay
+id:crotus;Crotus;false;true;
+ip:crotus.cc;crotus
+id:crystal;Crystal Network;false;false;
+ip:crystal.rip;crystal
+id:cubecraft;CubeCraft Games;true;true;
+ip:cubecraft.net;cubecraft
+id:cubehard;Cubehard;false;false;
+ip:cubehard.net;cubehard
+id:cylonemc;CyloneMC;true;true;
+ip:cylonemc.net;cylonemc
+ip:cylonemc.com;cylonemc
+ip:cylone.net;cylonemc
+id:darkmc;DarkMC Network;false;false;
+ip:dark-mc.xyz;darkmc
+id:dragonsurvival;DragonSurvival.EU;false;false;
+ip:dragon-survival.eu;dragonsurvival
+ip:dragonsurvival.eu;dragonsurvival
+id:dropthem;Dropthem Network;true;false;
+ip:dropthem.eu;dropthem
+id:dynamicpvp;Dynamic Network;false;true;
+ip:dynamicpvp.net;dynamicpvp
+id:eclipsepvp;Eclipsepvp Network;false;false;
+ip:eclipsepvp.club;eclipsepvp
+id:edenmine;EdenMine Network;false;true;
+ip:edenmine.eu;edenmine
+id:elevatemc;ElevateMC Network;true;true;
+ip:elevatemc.com;elevatemc
+id:erisium;Erisium;true;true;
+ip:erisium.com;erisium
+id:esta;Esta Network;true;false;
+ip:esta.land;esta
+id:exaltedmc;ExaltedMC;false;true;
+ip:exaltedmc.club;exaltedmc
+id:fademc;FadeMC;true;false;
+ip:fademc.org;fademc
+id:faithfulmc;FaithfulMC;false;false;
+ip:faithfulhcf.com;faithfulmc
+ip:faithfulmc.com;faithfulmc
+id:feargames;FearGames;false;true;
+ip:feargames.it;feargames
+id:flamemc;FlameMC;false;true;
+ip:flamemc.com.br;flamemc
+id:fraze;Fraze;false;false;
+ip:fraze.pl;fraze
+ip:kyumc.pl;fraze
+id:freakyville;FreakyVille;false;true;
+ip:freakyville.net;freakyville
+id:frequencymc;FrequencyMC;true;false;
+ip:frequencymc.cc;frequencymc
+id:frozedclub;Frozed Club;false;false;
+ip:elb1to.me;frozedclub
+ip:frozed.club;frozedclub
+id:fruitservers;FruitServers;false;false;
+ip:fruitservers.net;fruitservers
+id:fruskygames;FruskyGames;true;true;
+ip:fruskygames.net;fruskygames
+ip:fruskygames.nl;fruskygames
+id:funcraft;FunCraft;false;false;
+ip:funcraft.net;funcraft
+id:galaxycore;GalaxyCore.net;false;false;
+ip:galaxycore.net;galaxycore
+id:ghostlynetwork;Ghostly Network;false;true;
+ip:gamefack.me;ghostlynetwork
+ip:gamefack.us;ghostlynetwork
+ip:ghostly.live;ghostlynetwork
+id:ghouluhc;GhoulUHC;false;true;
+ip:ghouluhc.club;ghouluhc
+id:glade;Glade;false;false;
+ip:glade.gg;glade
+id:glancenetwork;Glance Network;false;false;
+ip:glance.top;glancenetwork
+id:glorynetwork;GloryNetwork;false;false;
+ip:glory-network.com;glorynetwork
+id:goldenuhc;GoldenUHC.eu;true;true;
+ip:goldenuhc.eu;goldenuhc
+id:goldzonecz;Gold-Zone.cz;false;false;
+ip:gold-zone.cz;goldzonecz
+id:gommehd;GommeHD;true;true;
+ip:gommehd.net;gommehd
+id:greeveu;Greev.eu;true;true;
+ip:greev.eu;greeveu
+id:hadaria;Hadaria;false;false;
+ip:hadaria.fr;hadaria
+id:harlon;Harlon City Server;false;true;
+ip:harlonserver.net;harlon
+id:hazelmc;Hazel MC;false;false;
+ip:hazelmc.com;hazelmc
+id:heartsteal;HeartSteal SMP;false;false;
+ip:heartsteal.net;heartsteal
+id:herobrineorg;Herobrine.org;false;true;
+ip:herobrine.org;herobrineorg
+id:hikari;Hikari;false;false;
+ip:hikarimc.com;hikari
+ip:hikarimc.net;hikari
+ip:funsmp.com;hikari
+id:hivemc;HiveMC;true;true;
+ip:hivemc.com;hivemc
+id:holyhcf;Holy Network;true;false;
+ip:eaglehcf.com;holyhcf
+ip:holyh.cf;holyhcf
+ip:holypvp.net;holyhcf
+ip:watermc.gg;holyhcf
+id:hycraft;HyCraft Network;false;true;
+ip:hycraft.us;hycraft
+id:hydracraftnetwork;HydraCraft Network;false;true;
+ip:hydracraft.es;hydracraftnetwork
+id:hylex;HYLEX.net;false;true;
+ip:hylex.net;hylex
+id:hypixel;Hypixel;true;true;
+ip:hypixel.net;hypixel
+id:hypnomc;HypnoMC;true;false;
+ip:hypnomc.net;hypnomc
+id:inertianetwork;Inertia Network;false;false;
+ip:inertia.gg;inertianetwork
+id:introublede;InTroubleDE;true;false;
+ip:introuble.de;introublede
+id:invadedlands;InvadedLands;true;true;
+ip:invadedlands.net;invadedlands
+ip:skeppylovesflipflops.xyz;invadedlands
+ip:pvplands.net;invadedlands
+id:jailmc;JailMC;true;true;#79c8f5
+ip:jailmc.com;jailmc
+id:jartexnetwork;JartexNetwork;false;false;
+ip:jartexnetwork.com;jartexnetwork
+ip:jartex.fun;jartexnetwork
+id:juvymc;JuvyMC;false;false;
+ip:juvymc.net;juvymc
+ip:juvymc.club;juvymc
+id:kantay;Kantay Network;false;false;
+ip:kantay.cc;kantay
+id:kazer;Kazer Network;false;false;
+ip:kazer.cc;kazer
+id:kig;KIG Network;true;true;
+ip:playkig.com;kig
+ip:hive.rip;kig
+ip:cai.rip;kig
+id:kiopvp;KioPvP Network;false;false;
+ip:kiopvp.com;kiopvp
+id:kira;Kira;false;false;
+ip:kirah.cf;kira
+ip:kira.vip;kira
+ip:kira.rip;kira
+id:kokscraft;KoksCraft.pl;false;false;
+ip:kokscraft.pl;kokscraft
+id:koolkidzmc;KoolKidz MC;false;false;
+ip:koolkidzmc.com;koolkidzmc
+id:koupahgames;Koupah Games;false;false;
+ip:koupah.games;koupahgames
+id:kwadratowagames;Kwadratowa Games;false;true;
+ip:kwadratowa.games;kwadratowagames
+id:ladpvp;LAD Network;true;true;#ff1c3e
+ip:ladpvp.net;ladpvp
+id:latamcraft;LatamCraft;false;false;
+ip:latamcraft.es;latamcraft
+id:librecraft;Librecraft Network;false;true;
+ip:librecraft.com;librecraft
+ip:librecraft.juegos;librecraft
+id:limaru;Federal Republic of Limaru;false;false;
+ip:limaru.ddns.net;limaru
+id:lordrealm;LordRealm Network;true;true;
+ip:lordrealm.xyz;lordrealm
+ip:lordrealm.net;lordrealm
+id:loverfella;Loverfella;false;false;
+ip:loverfella.com;loverfella
+id:lovymc;LovyMC Network;false;true;
+ip:lovymc.com;lovymc
+id:luckynetwork;Lucky Network;false;true;
+ip:luckynetwork.net;luckynetwork
+id:lunarnetwork;Lunar Network;true;true;#44a1e3
+ip:lunar.gg;lunarnetwork
+ip:lunargg.dev;lunarnetwork
+ip:mcteams.com;lunarnetwork
+id:lust;Lust;false;false;
+ip:lust.rip;lust
+id:lynxmc;LynxMC Network;false;true;
+ip:lynxmc.ga;lynxmc
+id:madnetwork;MadNetwork;false;false;
+ip:madnetwork.club;madnetwork
+id:magiccraft;MagicCraft;false;true;
+ip:magiccraft.fr;magiccraft
+id:mccentral;Minecraft Central;false;true;
+ip:mccentral.org;mccentral
+id:mccisland;MCC Island;true;true;
+ip:mccisland.net;mccisland
+ip:mccisland.com;mccisland
+ip:noxcrew.online;mccisland
+id:mcgamer;MCGamer;false;true;
+ip:mcgamer.net;mcgamer
+id:mcmanhunt;MCManHunt.com;false;false;
+ip:mcmanhunt.com;mcmanhunt
+id:mcplayhd;McPlayHD;true;false;
+ip:mcplayhd.net;mcplayhd
+id:mcprison;MCPrison;true;false;
+ip:mcprison.com;mcprison
+id:meapcraft;MeapCraft;false;false;
+ip:meapcraft.online;meapcraft
+id:megaplanet;MEGA Planet;false;true;
+ip:megaplanet.net;megaplanet
+id:menastro;Menastro Network;false;false;
+ip:menastro.gg;menastro
+id:minearcade;MineArcade;false;false;
+ip:minearcade.org;minearcade
+id:minebet;MineBet;true;true;
+ip:minebet.net;minebet
+id:minebox;MineBox Network;false;false;
+ip:minebox.es;minebox
+ip:minelc.com;minebox
+id:minecadia;Minecadia;true;true;
+ip:minecadia.com;minecadia
+id:minechaos;MineChaos;false;false;
+ip:minechaos.eu;minechaos
+id:mineclub;MineClub;true;true;
+ip:mineclub.com;mineclub
+id:minedestiny;MineDestiny;false;true;#dd544e
+ip:minedestiny.hu;minedestiny
+id:mineglobe;MineGlobe Network;false;true;
+ip:mineglobe.org;mineglobe
+id:minehut;Minehut Server;false;true;
+ip:minehut.com;minehut
+ip:minehut.gg;minehut
+id:minejunkie;MineJunkie;true;false;
+ip:minejunkie.com;minejunkie
+id:minelatino;MineLatino Network;false;true;
+ip:minelatino.com;minelatino
+ip:minelatino.net;minelatino
+id:minemalia;MineMalia Network;false;false;
+ip:minemalia.com;minemalia
+id:minemenclub;Minemen Club;true;true;
+ip:minemen.club;minemenclub
+ip:mineman.club;minemenclub
+ip:icantjoinlmfao.club;minemenclub
+ip:euicantjoinlmfao.club;minemenclub
+ip:minemenclub.com;minemenclub
+ip:pvp.bar;minemenclub
+ip:zonix.us;minemenclub
+id:minemortal;MineMortal Network;true;true;#ff1100
+ip:minemortal.org;minemortal
+ip:rivalpvp.net;minemortal
+ip:minehaven.net;minemortal
+id:mineplex;Mineplex;true;true;
+ip:mineplex.com;mineplex
+id:minequest;Minequest;true;false;
+ip:minequest.gg;minequest
+id:mizu;Mizu;false;false;
+ip:mizu.lol;mizu
+id:moonsidemc;Moonside;true;false;
+ip:moonsidemc.com;moonsidemc
+id:motimaa;Motimaa;true;false;
+ip:motimaa.net;motimaa
+id:muffinized;Muffinized Network;false;false;
+ip:muffinized.net;muffinized
+id:munchymc;MunchyMC;true;true;
+ip:munchymc.com;munchymc
+ip:kitpvp.us;munchymc
+id:mush;MushMC;false;true;
+ip:mushmc.com;mush
+ip:mush.com.br;mush
+ip:mushmc.com.br;mush
+id:myntora;Myntora;true;false;
+ip:myntora.net;myntora
+id:mythicalmc;MythicalMC Network;false;false;
+ip:mythicalmc.org;mythicalmc
+id:mythicnetwork;Mythic Network;true;false;
+ip:ausheroes.net;mythicnetwork
+ip:mythic.gg;mythicnetwork
+id:nasgar;Nasgar Network;false;true;
+ip:nasgar.online;nasgar
+id:ncea;NCEAHelp;false;false;
+ip:nceahelp.com;ncea
+id:nekocraft;NekoCraft Network;false;false;
+ip:nekocraft.us;nekocraft
+ip:nekocraft.es;nekocraft
+id:neptunemc;NeptuneMC Network;false;false;
+ip:neptunemc.es;neptunemc
+ip:limitedmc.fun;neptunemc
+ip:skyvermc.es;neptunemc
+id:neptuniummc;NeptuniumMC;false;false;
+ip:neptuniummc.it;neptuniummc
+id:nightly;Nightly;false;false;
+ip:nightlymc.com;nightly
+id:northpvp;NorthPvP Network;true;false;
+ip:northpvp.club;northpvp
+id:nucleoid;Nucleoid;false;true;#180527
+ip:nucleoid.xyz;nucleoid
+id:nyte;Nyte;true;true;
+ip:nyte.cc;nyte
+id:octc;Overcast Community;true;true;
+ip:oc.tc;octc
+id:ognetwork;OG Network;true;true;
+ip:og-network.net;ognetwork
+ip:og-sg.net;ognetwork
+id:opblocks;OPBlocks;true;true;
+ip:opblocks.com;opblocks
+id:originrealms;Origin Realms;false;true;
+ip:originrealms.com;originrealms
+id:pandakmc;PandakMC;false;true;
+ip:pandakmc.fr;pandakmc
+id:pandorianmc;PandorianMC;true;true;
+ip:pandorianmc.net;pandorianmc
+id:patetamc;PatetaMC;false;false;
+ip:pateta.online;patetamc
+id:pikanetwork;PikaNetwork;false;false;
+ip:pika-network.net;pikanetwork
+ip:pika.host;pikanetwork
+id:pixelcade;Pixelcade;false;false;
+ip:pixelcade.net;pixelcade
+id:playblocks;Playblocks;false;true;
+ip:playblocks.org;playblocks
+ip:minealong.com;playblocks
+id:potpvpbrazil;PotPvP Brazil;false;false;
+ip:potpvp.com.br;potpvpbrazil
+id:prismamc;PrismaMC Network;false;false;
+ip:prismamc.net;prismamc
+id:protocol;Protocol Network;true;false;
+ip:protocol.rip;protocol
+id:pvparcade;PvP Arcade;true;false;
+ip:pvparcade.gg;pvparcade
+ip:pvparca.de;pvparcade
+ip:aripvp.club;pvparcade
+id:pvpbeach;PvPBeach Network;true;false;
+ip:pvpbeach.com;pvpbeach
+id:pvpbear;PvP Bear;false;false;
+ip:pvpbear.net;pvpbear
+ip:snowbear.playwithus.cc;pvpbear
+id:pvpcraftcz;PvPCraft.cz;false;true;
+ip:pvpcraft.cz;pvpcraftcz
+id:pvpgym;PvPGym;true;false;
+ip:pvpgym.net;pvpgym
+id:pvpland;PvP Land;true;false;
+ip:pvp.land;pvpland
+id:pvplegacy;PvP Legacy;false;true;
+ip:pvplegacy.net;pvplegacy
+id:qplay;QPlay;false;true;
+ip:qplay.cz;qplay
+id:quutio;Quut.io;true;false;
+ip:quut.io;quutio
+id:ravenhub;RavenHub;false;false;
+ip:ravenhub.net;ravenhub
+id:redesky;Rede Sky;false;true;
+ip:redesky.com;redesky
+ip:redesky.gg;redesky
+id:regorland;Regorland;false;false;
+ip:regorland.net;regorland
+id:renga;Renga Network;true;false;
+ip:realren.ga;renga
+id:renshu;Renshu Network;false;false;
+ip:renshu.cc;renshu
+id:revenge;Revenge Network;false;false;
+ip:revenge.cc;revenge
+id:rinaorc;Rinaorc;false;true;
+ip:rinaorc.com;rinaorc
+id:sagepvp;SagePvP;true;true;
+ip:sagepvp.org;sagepvp
+id:savanapvp;SavanaPvP Network;false;false;
+ip:savanapvp.net;savanapvp
+id:shotbow;Shotbow;true;true;
+ip:shotbow.net;shotbow
+id:silexpvp;Silex Network;true;false;
+ip:silexpvp.net;silexpvp
+id:skillwars;SkillWars Network;false;false;
+ip:skillwars.us;skillwars
+id:skycraftcombr;SkyCraft Network;false;false;
+ip:skycraft.com.br;skycraftcombr
+id:skyservers;SkyServers;false;true;
+ip:sky-mc.net;skyservers
+id:slyce;Slyce;false;true;
+ip:slycemc.eu;slyce
+ip:slycemc.com;slyce
+ip:slyce.fr;slyce
+id:sololegends;SoloLegends.net;false;false;
+ip:sololegends.net;sololegends
+id:squidland;Squid Land | Network;false;false;
+ip:squid.land;squidland
+id:starcraftmc;StarCraft MC;false;false;
+ip:starcraft.uk;starcraftmc
+id:starpvp;StarPvP;false;false;
+ip:starpvp.cf;starpvp
+id:stelarmc;StelarMC;false;true;
+ip:stelarmc.us;stelarmc
+ip:stelarmc.club;stelarmc
+id:stolencode;StolenCode;true;true;#FFAA00
+ip:stolencode.fun;stolencode
+ip:stolenco.de;stolencode
+id:stratusnetwork;Stratus Network;true;true;
+ip:stratus.network;stratusnetwork
+id:sunrisecity;Sunrise City Server;true;true;#FF6A00
+ip:sunrisecity.uk;sunrisecity
+id:survivalgamescz;Survival-Games.cz;false;false;
+ip:survival-games.cz;survivalgamescz
+id:sydaria;Sydaria;false;false;
+ip:sydaria.fr;sydaria
+id:syuu;Syuu;true;false;
+ip:syuu.net;syuu
+id:teamfightcc;TeamFight Network;false;false;
+ip:teamfight.cc;teamfightcc
+id:tearfulmc;TearfulMC;false;false;
+ip:tearfulmc.com;tearfulmc
+id:techcraft;TechCraft Network;false;false;
+ip:techcraftmc.com;techcraft
+id:tecnocraft;TecnoCraft.net;false;false;
+ip:tecnocraft.net;tecnocraft
+id:thearchon;TheArchon;false;true;
+ip:thearchon.net;thearchon
+id:timbw;TimBW Network;false;false;
+ip:timbw.xyz;timbw
+id:timolia;Timolia;true;true;
+ip:timolia.de;timolia
+id:topstrix;TopStrix Network;false;true;
+ip:topstrix.net;topstrix
+ip:topstrix.com;topstrix
+id:totalfreedom;Total Freedom;false;false;
+ip:totalfreedom.me;totalfreedom
+id:treepark;TreeparkMC;false;true;
+ip:treepark.games;treepark
+id:tropical;Tropical;false;false;
+ip:tropical.gg;tropical
+id:tubnet;TubNet;false;true;
+ip:tubnet.gg;tubnet
+id:twistedmc;TwistedMC;true;true;#3498db
+ip:twistedmc.net;twistedmc
+id:twistmc;TwistMC;false;true;
+ip:twistmc.net;twistmc
+id:udropclub;uDrop Club;false;false;
+ip:udrop.club;udropclub
+id:uhcarcade;UHC Arcade;false;false;
+ip:uhcarcade.com;uhcarcade
+id:uhchub;UHCHub;false;false;
+ip:uhchub.club;uhchub
+ip:uhchub.eu;uhchub
+id:ultimismc;UltimisMC Network;false;true;
+ip:ultimismc.com;ultimismc
+id:universocraft;UniversoCraft;false;false;
+ip:universocraft.com;universocraft
+id:vaint;Vaint Network;false;false;
+ip:vaint.us;vaint
+id:valley;Valley Network;false;false;
+ip:valleypvp.us;valley
+id:vanillaplus;Vanilla Plus;false;true;
+ip:vanillaplus.net;vanillaplus
+id:veal;VealPvP;false;true;
+ip:vealpvp.net;veal
+id:vealypvp;VealyPvP.us;false;false;
+ip:vealypvp.us;vealypvp
+id:veltpvp;VeltPvP;true;false;
+ip:veltpvp.com;veltpvp
+id:vervekits;Verve Kits;false;true;
+ip:verve.rip;vervekits
+id:vestpvp;VestPVP;false;false;
+ip:vestpvp.pl;vestpvp
+id:vicnix;Vicnix Network;false;true;
+ip:vicnix.net;vicnix
+ip:onlymc.us;vicnix
+id:vipermc;ViperMC;true;false;
+ip:viperhcf.com;vipermc
+ip:viperhcf.net;vipermc
+ip:vipermc.com;vipermc
+ip:vipermc.net;vipermc
+id:virtualhit;VirtualHit Network;false;true;
+ip:virtualhit.es;virtualhit
+id:virtualplanet;VirtualPlanet;false;true;
+ip:virtualplanet.es;virtualplanet
+id:visionmc;VisionMC Network;true;true;
+ip:visionmc.club;visionmc
+ip:visionmc.gq;visionmc
+id:voltyum;Voltyum Network;false;false;
+ip:voltyum.net;voltyum
+id:vortexnetwork;Vortex Network;true;true;
+ip:vortexnetwork.net;vortexnetwork
+id:warfaremc;WarfareMC.eu;false;false;
+ip:warfaremc.eu;warfaremc
+id:warzone;Warzone Network;true;true;#9148D3
+ip:warzone.network;warzone
+ip:warz.one;warzone
+id:watermc;WaterMC;false;true;
+ip:watermc.gg;watermc
+id:wildnetwork;WildNetwork;true;false;
+ip:wildnetwork.net;wildnetwork
+ip:wildprison.net;wildnetwork
+ip:wildsmp.net;wildnetwork
+id:wildya;Wildya;false;false;
+ip:wildya.fr;wildya
+id:wynncraft;Wynncraft;true;true;
+ip:wynncraft.com;wynncraft
+id:ymzc;YMZC Network;false;false;
+ip:ymzc.pro;ymzc
+id:yolomc;YoloMC;false;false;
+ip:yolomc.com;yolomc
+ip:yolomc.com.br;yolomc
+id:zeronmc;ZeronMC;false;true;
+ip:zeronmc.ml;zeronmc
+id:zoltixnetwork;ZoltixNetwork;false;false;
+ip:zoltix.net;zoltixnetwork
+ip:minecraftoce.net;zoltixnetwork
+id:zonecraft;ZoneCraft Network;false;true;
+ip:zonecraft.es;zonecraft
+ip:zonecn.es;zonecraft
+ip:hypixel.es;zonecraft
+ip:amamarla.com;zonecraft
+ip:banananetwork.es;zonecraft
+ip:darktimes.es;zonecraft
+ip:bedwars.es;zonecraft
+ip:zonehosting.net;zonecraft
+ip:skywars.es;zonecraft
