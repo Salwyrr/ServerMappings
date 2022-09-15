@@ -47,6 +47,8 @@ id:betterpvp;BetterPvP;false;true;
 ip:betterpvp.pl;betterpvp
 id:betterpvpnt;BetterPvP Network;false;true;
 ip:betterpvp.club;betterpvpnt
+id:blockmania;BlockMania;true;false;
+ip:blockmania.com;blockmania
 id:blocksmc;BlocksMC;false;true;
 ip:blocksmc.com;blocksmc
 id:blurkit;Blurkit Network;false;true;
@@ -138,6 +140,8 @@ ip:faithfulhcf.com;faithfulmc
 ip:faithfulmc.com;faithfulmc
 id:feargames;FearGames;false;true;
 ip:feargames.it;feargames
+id:firstsky;FirstSky;false;false;
+ip:firstsky.net;firstsky
 id:flamemc;FlameMC;false;true;
 ip:flamemc.com.br;flamemc
 id:fraze;Fraze;false;false;
@@ -179,6 +183,10 @@ id:gommehd;GommeHD;true;true;
 ip:gommehd.net;gommehd
 id:greeveu;Greev.eu;true;true;
 ip:greev.eu;greeveu
+id:guildcraft;GuildCraft Network;false;false;
+ip:guildcraft.net;guildcraft
+id:gummymc;GummyMC;false;true;#b00078
+ip:gummymc.net;gummymc
 id:hadaria;Hadaria;false;false;
 ip:hadaria.fr;hadaria
 id:harlon;Harlon City Server;false;true;
@@ -257,6 +265,8 @@ ip:librecraft.com;librecraft
 ip:librecraft.juegos;librecraft
 id:limaru;Federal Republic of Limaru;false;false;
 ip:limaru.ddns.net;limaru
+id:lookcraft;LookCraft;false;true;#969696
+ip:lookcraft.tk;lookcraft
 id:lordrealm;LordRealm Network;true;true;
 ip:lordrealm.xyz;lordrealm
 ip:lordrealm.net;lordrealm
@@ -300,6 +310,8 @@ id:menastro;Menastro Network;false;false;
 ip:menastro.gg;menastro
 id:minearcade;MineArcade;false;false;
 ip:minearcade.org;minearcade
+id:minearte;Minearte Network;false;true;#bd6800
+ip:minearte.net;minearte
 id:minebet;MineBet;true;true;
 ip:minebet.net;minebet
 id:minebox;MineBox Network;false;false;
@@ -341,6 +353,8 @@ id:mineplex;Mineplex;true;true;
 ip:mineplex.com;mineplex
 id:minequest;Minequest;true;false;
 ip:minequest.gg;minequest
+id:minespoky;MineSpoky Network;false;true;#FB9700
+ip:minespoky.net;minespoky
 id:mizu;Mizu;false;false;
 ip:mizu.lol;mizu
 id:moonsidemc;Moonside;true;false;
@@ -358,6 +372,8 @@ ip:mush.com.br;mush
 ip:mushmc.com.br;mush
 id:myntora;Myntora;true;false;
 ip:myntora.net;myntora
+id:mysticlands;MysticLands Network;false;true;#aa00aa
+ip:mysticlands.net;mysticlands
 id:mythicalmc;MythicalMC Network;false;false;
 ip:mythicalmc.org;mythicalmc
 id:mythicnetwork;Mythic Network;true;false;
@@ -384,6 +400,8 @@ id:nucleoid;Nucleoid;false;true;#180527
 ip:nucleoid.xyz;nucleoid
 id:nyte;Nyte;true;true;
 ip:nyte.cc;nyte
+id:oceanmc;OceanMC Network;false;false;#00FFF7
+ip:oceanmc.es;oceanmc
 id:octc;Overcast Community;true;true;
 ip:oc.tc;octc
 id:ognetwork;OG Network;true;true;
@@ -487,6 +505,8 @@ id:sunrisecity;Sunrise City Server;true;true;#FF6A00
 ip:sunrisecity.uk;sunrisecity
 id:survivalgamescz;Survival-Games.cz;false;false;
 ip:survival-games.cz;survivalgamescz
+id:swisshq;SwissHQ Network;true;true;#ffffff
+ip:swisshq.net;swisshq
 id:sydaria;Sydaria;false;false;
 ip:sydaria.fr;sydaria
 id:syuu;Syuu;true;false;
@@ -516,6 +536,8 @@ id:tropical;Tropical;false;false;
 ip:tropical.gg;tropical
 id:tubnet;TubNet;false;true;
 ip:tubnet.gg;tubnet
+id:twerion;Twerion;false;false;
+ip:twerion.net;twerion
 id:twistedmc;TwistedMC;true;true;#3498db
 ip:twistedmc.net;twistedmc
 id:twistmc;TwistMC;false;true;
