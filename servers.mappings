@@ -203,7 +203,7 @@ ip:hikarimc.net;hikari
 ip:funsmp.com;hikari
 id:hivemc;HiveMC;true;true;
 ip:hivemc.com;hivemc
-id:holyhcf;Holy Network;true;false;
+id:holyhcf;Holy Network;false;false;
 ip:eaglehcf.com;holyhcf
 ip:holyh.cf;holyhcf
 ip:holypvp.net;holyhcf
@@ -407,6 +407,8 @@ ip:oc.tc;octc
 id:ognetwork;OG Network;true;true;
 ip:og-network.net;ognetwork
 ip:og-sg.net;ognetwork
+id:onecube;OneCube;true;false;
+ip:onecube.com;onecube
 id:opblocks;OPBlocks;true;true;
 ip:opblocks.com;opblocks
 id:originrealms;Origin Realms;false;true;
