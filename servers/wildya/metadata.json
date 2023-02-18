@@ -3,5 +3,8 @@
     "name": "Wildya",
     "addresses": [
         "wildya.fr"
-    ]
+    ],
+    "primaryAddress": "play.wildya.fr",
+    "primaryColor": "#294085",
+    "secondaryColor": "#3e3a44"
 }

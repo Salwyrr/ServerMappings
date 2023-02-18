@@ -1,6 +1,7 @@
 {
     "id": "stelarmc",
     "name": "StelarMC",
+    "store": "https://tienda.stelarmc.us/",
     "addresses": [
         "stelarmc.us",
         "stelarmc.club"
@@ -14,5 +15,13 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#5cc5a3",
+    "secondaryColor": "#4f4f3a",
+    "socials": {
+        "twitter": "StelarMcNT",
+        "discord": "https://discord.com/invite/6uPBm4AHJy",
+        "youtube": "UCAszhWeMT9tK66-hxbkJM8w",
+        "tiktok": "stelarmcnetwork"
+    }
 }

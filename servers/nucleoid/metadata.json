@@ -1,6 +1,7 @@
 {
     "id": "nucleoid",
     "name": "Nucleoid",
+    "website": "https://nucleoid.xyz/",
     "addresses": [
         "nucleoid.xyz"
     ],
@@ -24,5 +25,9 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "twitter": "nucleoidmc",
+        "discord": "https://discord.com/invite/MVsm5Pu"
+    }
 }

@@ -1,6 +1,8 @@
 {
     "id": "minearte",
     "name": "Minearte Network",
+    "website": "https://minearte.net/",
+    "store": "https://minearte.net/tienda",
     "addresses": [
         "minearte.net"
     ],
@@ -28,5 +30,10 @@
     "gameTypes": [
         "Survival",
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "MinearteNet",
+        "discord": "https://discord.com/invite/cehWysWBJx",
+        "tiktok": "mineartenet"
+    }
 }

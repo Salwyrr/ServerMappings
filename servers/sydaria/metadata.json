@@ -1,7 +1,16 @@
 {
     "id": "sydaria",
     "name": "Sydaria",
+    "website": "https://sydaria.fr/",
+    "store": "https://boutique.sydaria.fr/",
     "addresses": [
         "sydaria.fr"
-    ]
+    ],
+    "primaryAddress": "play.sydaria.fr",
+    "primaryColor": "#f1c911",
+    "secondaryColor": "#79641f",
+    "socials": {
+        "twitter": "sydariafr",
+        "discord": "https://discord.com/invite/sydaria"
+    }
 }

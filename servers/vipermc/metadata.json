@@ -1,6 +1,9 @@
 {
     "id": "vipermc",
     "name": "ViperMC",
+    "website": "https://www.vipermc.net/",
+    "store": "https://store.vipermc.net/",
+    "description": "We're your home with the Hardcore Factions and the PotPvP gamemodes!",
     "addresses": [
         "viperhcf.com",
         "viperhcf.net",
@@ -16,5 +19,12 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "primaryColor": "#182257",
+    "secondaryColor": "#e8eaf4",
+    "socials": {
+        "twitter": "ViperMC",
+        "discord": "https://discord.com/invite/viper",
+        "tiktok": "vipermc"
+    }
 }

@@ -1,7 +1,16 @@
 {
     "id": "hydracraftnetwork",
     "name": "HydraCraft Network",
+    "website": "https://hydracraft.es/",
+    "store": "https://tienda.hydracraft.es/",
     "addresses": [
         "hydracraft.es"
-    ]
+    ],
+    "primaryAddress": "mc.hydracraft.es",
+    "primaryColor": "#fefefe",
+    "secondaryColor": "#fefefe",
+    "socials": {
+        "twitter": "hydracraft_es",
+        "discord": "https://discord.com/invite/hydracraft"
+    }
 }

@@ -1,6 +1,9 @@
 {
     "id": "octc",
     "name": "Overcast Community",
+    "website": "https://oc.tc/",
+    "store": "https://oc.tc/donate/",
+    "description": "Competitive PvP since 2012",
     "addresses": [
         "oc.tc"
     ],
@@ -17,5 +20,13 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "primaryColor": "#d7d2bf",
+    "secondaryColor": "#4c0704",
+    "socials": {
+        "twitter": "OvercastPGM",
+        "discord": "https://discord.com/invite/OCTC",
+        "youtube": "OvercastNetwork",
+        "twitch": "OCNLive"
+    }
 }

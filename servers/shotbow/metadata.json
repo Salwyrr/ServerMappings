@@ -1,6 +1,9 @@
 {
     "id": "shotbow",
     "name": "Shotbow",
+    "website": "https://shotbow.net/",
+    "store": "https://buy.shotbow.net/",
+    "description": "Home of Annihilation, MineZ, and SMASH",
     "addresses": [
         "shotbow.net"
     ],
@@ -16,5 +19,16 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "primaryColor": "#553c22",
+    "secondaryColor": "#c1c1c0",
+    "socials": {
+        "twitter": "ShotbowNetwork",
+        "discord": "https://discord.com/invite/shotbow",
+        "youtube": "ShotbowOfficial",
+        "instagram": "shotbowofficial",
+        "reddit": "ShotBow",
+        "tiktok": "shotbownetwork",
+        "facebook": "ShotbowOfficial"
+    }
 }

@@ -1,7 +1,15 @@
 {
     "id": "survivalgamescz",
     "name": "Survival-Games.cz",
+    "website": "https://survival-games.cz/",
+    "store": "https://store.survival-games.cz/",
     "addresses": [
         "survival-games.cz"
-    ]
+    ],
+    "primaryColor": "#38a05c",
+    "secondaryColor": "#c4c6c6",
+    "socials": {
+        "instagram": "survival.games.cz",
+        "facebook": "CZSurvivalGames"
+    }
 }

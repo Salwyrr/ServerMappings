@@ -1,6 +1,8 @@
 {
     "id": "sunrisecity",
     "name": "Sunrise City Server",
+    "website": "https://www.sunrisecity.uk/",
+    "store": "https://sunrise.craftingstore.net/",
     "addresses": [
         "sunrisecity.uk"
     ],
@@ -28,5 +30,8 @@
     ],
     "gameTypes": [
         "Roleplay"
-    ]
+    ],
+    "socials": {
+        "youtube": "UCgCs7HN5776KfUorV7J-dBg"
+    }
 }

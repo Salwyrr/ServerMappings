@@ -1,8 +1,16 @@
 {
     "id": "ognetwork",
     "name": "OG Network",
+    "website": "https://www.og-network.net/",
+    "store": "https://shop.og-network.net/",
     "addresses": [
         "og-network.net",
         "og-sg.net"
-    ]
+    ],
+    "primaryColor": "#65bf75",
+    "secondaryColor": "#cccccb",
+    "socials": {
+        "twitter": "playognetwork",
+        "discord": "https://discord.com/invite/UFDP3QXq5H"
+    }
 }

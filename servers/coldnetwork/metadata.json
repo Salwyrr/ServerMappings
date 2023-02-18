@@ -1,8 +1,18 @@
 {
     "id": "coldnetwork",
     "name": "ColdNetwork",
+    "website": "https://coldnetwork.net/",
+    "store": "https://store.coldnetwork.net/",
     "addresses": [
         "coldnetwork.net",
         "coldpvp.com"
-    ]
+    ],
+    "primaryAddress": "play.coldnetwork.net",
+    "primaryColor": "#0da1de",
+    "secondaryColor": "#081723",
+    "socials": {
+        "twitter": "coldnetworknet",
+        "discord": "https://discord.com/invite/NX9U5ZR",
+        "youtube": "coldnetworknet"
+    }
 }

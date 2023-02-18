@@ -1,6 +1,7 @@
 {
     "id": "veal",
     "name": "VealPvP",
+    "store": "http://store.vealpvp.net/",
     "addresses": [
         "vealpvp.net"
     ],
@@ -10,5 +11,11 @@
         "1.8",
         "1.18"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#871982",
+    "secondaryColor": "#060306",
+    "socials": {
+        "twitter": "vealnetwork",
+        "discord": "https://discord.com/invite/czm5stDjQn"
+    }
 }

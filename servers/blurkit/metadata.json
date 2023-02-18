@@ -1,7 +1,16 @@
 {
     "id": "blurkit",
     "name": "Blurkit Network",
+    "website": "https://blurkit.net/",
+    "store": "https://tienda.blurkit.net/",
     "addresses": [
         "blurkit.net"
-    ]
+    ],
+    "primaryColor": "#dda003",
+    "secondaryColor": "#cf937f",
+    "socials": {
+        "twitter": "BlurkitNetwork",
+        "discord": "https://discord.com/invite/rjS49gQ",
+        "tiktok": "blurkeon"
+    }
 }

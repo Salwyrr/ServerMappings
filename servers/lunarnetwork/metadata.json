@@ -1,6 +1,9 @@
 {
     "id": "lunarnetwork",
     "name": "Lunar Network",
+    "website": "https://www.lunar.gg/",
+    "store": "https://store.lunar.gg/",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "lunar.gg",
         "lunargg.dev",
@@ -28,5 +31,10 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "LunarNetwork",
+        "discord": "https://discord.com/invite/4ceEJuH",
+        "telegram": "LunarNetwork"
+    }
 }

@@ -1,6 +1,7 @@
 {
     "id": "aquariusmc",
     "name": "AquariusMC",
+    "store": "https://store.aquariusmc.it/",
     "addresses": [
         "aquariusmc.it"
     ],
@@ -27,5 +28,10 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "networkaquarius",
+        "discord": "https://discord.com/invite/ErpABRs",
+        "telegram": "aquariusmcnetwork"
+    }
 }

@@ -1,12 +1,20 @@
 {
     "id": "meapcraft",
     "name": "MeapCraft",
+    "website": "https://home.meapcraft.online/",
+    "store": "https://store.meapcraft.online/",
     "addresses": [
         "meapcraft.online"
     ],
-    "primaryAddress": "meapcraft.online",
+    "primaryAddress": "play.meapcraft.online",
     "minecraftVersions": [
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.19"
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#6e2a69",
+    "secondaryColor": "#fcdb7f",
+    "socials": {
+        "discord": "https://discord.com/invite/CnqeBsuyMF",
+        "youtube": "UCVCLjrFzLvaYQWb6tcaPbGw"
+    }
 }

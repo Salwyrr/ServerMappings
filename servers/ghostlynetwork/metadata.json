@@ -1,6 +1,8 @@
 {
     "id": "ghostlynetwork",
     "name": "Ghostly Network",
+    "store": "https://store.ghostly.live/",
+    "description": "A popular PvP network which specialises in many competitive gamemodes",
     "addresses": [
         "gamefack.me",
         "gamefack.us",
@@ -15,5 +17,11 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "primaryColor": "#6e0707",
+    "secondaryColor": "#616161",
+    "socials": {
+        "twitter": "GhostlyLive",
+        "discord": "https://discord.com/invite/ghostly"
+    }
 }

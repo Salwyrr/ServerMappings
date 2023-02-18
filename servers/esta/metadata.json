@@ -1,7 +1,15 @@
 {
     "id": "esta",
     "name": "Esta Network",
+    "website": "https://esta.land/",
+    "store": "https://practice.tebex.io/",
     "addresses": [
         "esta.land"
-    ]
+    ],
+    "primaryColor": "#745151",
+    "secondaryColor": "#100c11",
+    "socials": {
+        "twitter": "esta_network",
+        "discord": "https://discord.com/invite/avWYwSXxzJ"
+    }
 }

@@ -1,6 +1,8 @@
 {
     "id": "minemenclub",
     "name": "Minemen Club",
+    "website": "https://minemen.club/",
+    "store": "https://store.minemen.club/",
     "addresses": [
         "minemen.club",
         "mineman.club",
@@ -15,5 +17,12 @@
         "1.7",
         "1.8"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#e911e5",
+    "secondaryColor": "#fffeff",
+    "socials": {
+        "twitter": "minemen_network",
+        "discord": "https://discord.com/invite/4gfk48gv9z",
+        "reddit": "MinemenClub"
+    }
 }

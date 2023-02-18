@@ -1,6 +1,7 @@
 {
     "id": "clashmc",
     "name": "ClashMC Network",
+    "store": "https://store.clashmc.org/",
     "addresses": [
         "clashmc.org"
     ],
@@ -29,5 +30,9 @@
     "gameTypes": [
         "HCF",
         "UHC"
-    ]
+    ],
+    "socials": {
+        "twitter": "ClashMCorg",
+        "discord": "https://discord.com/invite/nC8Trbannf"
+    }
 }

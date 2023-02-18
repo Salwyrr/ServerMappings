@@ -1,7 +1,16 @@
 {
     "id": "muffinized",
     "name": "Muffinized Network",
+    "website": "https://muffinized.net/",
+    "store": "https://muffinized.net/store/",
     "addresses": [
         "muffinized.net"
-    ]
+    ],
+    "primaryAddress": "play.muffinized.net",
+    "primaryColor": "#2317c5",
+    "secondaryColor": "#030303",
+    "socials": {
+        "twitter": "muffinized_",
+        "discord": "https://discord.com/invite/XpsCQjbEst"
+    }
 }

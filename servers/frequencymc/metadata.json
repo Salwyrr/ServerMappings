@@ -1,7 +1,11 @@
 {
     "id": "frequencymc",
     "name": "FrequencyMC",
+    "website": "https://frequencymc.cc/",
+    "store": "https://store.frequencymc.cc/",
     "addresses": [
         "frequencymc.cc"
-    ]
+    ],
+    "primaryColor": "#282828",
+    "secondaryColor": "#b4fcfc"
 }

@@ -1,6 +1,8 @@
 {
     "id": "stolencode",
     "name": "StolenCode",
+    "website": "https://stolenco.de/",
+    "store": "https://donate.stolenco.de/",
     "addresses": [
         "stolencode.fun",
         "stolenco.de"
@@ -23,5 +25,9 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "stolenco_de",
+        "discord": "https://discord.com/invite/JJNknRGJGB"
+    }
 }

@@ -1,7 +1,16 @@
 {
     "id": "glorynetwork",
     "name": "GloryNetwork",
+    "website": "https://glory-network.com/",
+    "store": "https://store.glory-network.com/",
     "addresses": [
-        "glory-network.com"
-    ]
+        "glory-network.com",
+        "rbw.world"
+    ],
+    "primaryAddress": "play.glory-network.com",
+    "primaryColor": "#c59326",
+    "secondaryColor": "#3be6ed",
+    "socials": {
+        "discord": "https://discord.com/invite/tUqdWEUVvx"
+    }
 }

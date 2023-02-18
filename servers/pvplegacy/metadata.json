@@ -1,6 +1,7 @@
 {
     "id": "pvplegacy",
     "name": "PvP Legacy",
+    "description": "Offers a modern PvP experience for KitPvP and custom duels",
     "addresses": [
         "pvplegacy.net"
     ],
@@ -15,5 +16,7 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "primaryColor": "#0392c5",
+    "secondaryColor": "#a2a1a3"
 }

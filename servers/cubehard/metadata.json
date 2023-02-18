@@ -1,7 +1,17 @@
 {
     "id": "cubehard",
     "name": "Cubehard",
+    "website": "https://cubehard.pl/",
+    "store": "https://cubehard.pl/shop",
     "addresses": [
         "cubehard.net"
-    ]
+    ],
+    "primaryColor": "#207f20",
+    "secondaryColor": "#7f7f7f",
+    "socials": {
+        "discord": "https://discord.com/invite/4MfcHEHMBY",
+        "youtube": "CubeHardOfficial",
+        "tiktok": "cubehard",
+        "facebook": "CUBEHARD"
+    }
 }

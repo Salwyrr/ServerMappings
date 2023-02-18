@@ -1,8 +1,15 @@
 {
     "id": "baldymc",
     "name": "BaldyMC",
+    "website": "https://baldymc.com/",
+    "store": "https://baldymc.com/store",
     "addresses": [
         "baldymc.com",
         "baldymc.xyz"
-    ]
+    ],
+    "primaryColor": "#955a06",
+    "secondaryColor": "#fbcb01",
+    "socials": {
+        "twitter": "BaldyMCOfficial"
+    }
 }

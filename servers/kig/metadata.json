@@ -1,9 +1,18 @@
 {
     "id": "kig",
     "name": "KIG Network",
+    "website": "https://playkig.com/",
+    "store": "https://store.playkig.com/",
     "addresses": [
         "playkig.com",
         "hive.rip",
         "cai.rip"
-    ]
+    ],
+    "primaryColor": "#0b173d",
+    "secondaryColor": "#d0a003",
+    "socials": {
+        "twitter": "kignetwork",
+        "discord": "https://discord.com/invite/gYJaRRV",
+        "youtube": "UCvyq5B5hzk0gX_TEzFQ2vjA"
+    }
 }

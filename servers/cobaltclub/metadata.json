@@ -1,7 +1,15 @@
 {
     "id": "cobaltclub",
     "name": "Cobalt Club",
+    "store": "https://store.cobalt.club/",
     "addresses": [
         "cobalt.club"
-    ]
+    ],
+    "primaryColor": "#0047ab",
+    "secondaryColor": "#0047ab",
+    "socials": {
+        "twitter": "CobaltClubMC",
+        "discord": "https://discord.com/invite/fwJRACwPgB",
+        "youtube": "UCPINbfBWEGhB6kcIFZU8f1Q"
+    }
 }

@@ -1,6 +1,9 @@
 {
     "id": "warzone",
     "name": "Warzone Network",
+    "website": "https://warzone.network/",
+    "store": "https://store.warzone.network/",
+    "description": "Take the objectives, destroy the enemy team, and dominate the competition!",
     "addresses": [
         "warzone.network",
         "warz.one"
@@ -29,5 +32,12 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "twitter": "warzonemc",
+        "discord": "https://discord.com/invite/2T3RqxJ",
+        "instagram": "warzonemc",
+        "reddit": "warzonemc",
+        "tiktok": "warzonemc"
+    }
 }

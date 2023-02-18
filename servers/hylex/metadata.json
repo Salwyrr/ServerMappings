@@ -1,7 +1,17 @@
 {
     "id": "hylex",
     "name": "HYLEX.net",
+    "website": "https://hylex.gg/",
+    "store": "https://hylex.gg/itens",
     "addresses": [
         "hylex.net"
-    ]
+    ],
+    "primaryColor": "#314484",
+    "secondaryColor": "#c79e56",
+    "socials": {
+        "twitter": "hylexmc",
+        "discord": "https://discord.com/invite/hylex",
+        "youtube": "UCZmIJ5CZXYt-pTVfVwpMjFA",
+        "instagram": "hylexmc"
+    }
 }

@@ -1,11 +1,15 @@
 {
     "id": "ariacraft",
     "name": "AriaCraft",
+    "website": "https://accentry.cn/",
+    "store": "https://store.accentry.cn/",
     "addresses": [
         "accentry.cn",
         "zqat.top"
     ],
     "primaryAddress": "accentry.cn",
+    "primaryColor": "#eb6eb0",
+    "secondaryColor": "#889cdc",
     "minecraftVersions": [
         "1.8",
         "1.12",

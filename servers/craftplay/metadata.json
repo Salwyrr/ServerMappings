@@ -1,7 +1,14 @@
 {
     "id": "craftplay",
     "name": "CraftPlay",
+    "store": "https://craftplay.pl/",
     "addresses": [
         "craftplay.pl"
-    ]
+    ],
+    "primaryColor": "#fab850",
+    "secondaryColor": "#141d34",
+    "socials": {
+        "discord": "https://discord.com/invite/RR3QJju",
+        "facebook": "CraftPlaypl"
+    }
 }

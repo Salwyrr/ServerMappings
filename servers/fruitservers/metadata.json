@@ -1,7 +1,18 @@
 {
     "id": "fruitservers",
     "name": "FruitServers",
+    "website": "http://fruitservers.net/",
+    "store": "https://www.fruitservers.net/survivalshop",
     "addresses": [
         "fruitservers.net"
-    ]
+    ],
+    "primaryAddress": "mc.fruitservers.net",
+    "primaryColor": "#271e13",
+    "secondaryColor": "#c3ac2d",
+    "socials": {
+        "twitter": "FruitServers",
+        "discord": "https://discord.com/invite/fruitservers",
+        "instagram": "fruit_servers",
+        "facebook": "fruitservers"
+    }
 }

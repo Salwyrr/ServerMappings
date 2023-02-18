@@ -1,10 +1,11 @@
 {
     "id": "minespoky",
     "name": "MineSpoky Network",
+    "store": "https://minespoky-network.tebex.io/",
     "addresses": [
         "minespoky.net"
     ],
-    "primaryAddress": "minespoky.net",
+    "primaryAddress": "play.minespoky.net",
     "minecraftVersions": [
         "1.16",
         "1.17",
@@ -25,5 +26,10 @@
     "gameTypes": [
         "Survival",
         "Skyblock"
-    ]
+    ],
+    "socials": {
+        "twitter": "MineSpoky",
+        "discord": "https://discord.com/invite/SR5BCZZ",
+        "tiktok": "minespoky.net"
+    }
 }

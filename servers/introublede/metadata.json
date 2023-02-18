@@ -1,7 +1,17 @@
 {
     "id": "introublede",
     "name": "InTroubleDE",
+    "website": "https://introuble.de/",
+    "store": "https://shop.introuble.de/",
     "addresses": [
         "introuble.de"
-    ]
+    ],
+    "primaryColor": "#fca800",
+    "secondaryColor": "#732700",
+    "socials": {
+        "twitter": "InTroubleDE",
+        "discord": "https://discord.com/invite/introuble",
+        "instagram": "introublenetwork",
+        "tiktok": "InTroubleDE"
+    }
 }

@@ -1,7 +1,15 @@
 {
     "id": "twistmc",
     "name": "TwistMC",
+    "website": "https://twistmc.net/",
+    "store": "https://store.twistmc.net/",
     "addresses": [
         "twistmc.net"
-    ]
+    ],
+    "primaryColor": "#26e06e",
+    "secondaryColor": "#8132d5",
+    "socials": {
+        "twitter": "twistminecraft",
+        "discord": "https://discord.com/invite/9HnJq2KXRD"
+    }
 }

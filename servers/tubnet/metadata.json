@@ -1,6 +1,7 @@
 {
     "id": "tubnet",
     "name": "TubNet",
+    "website": "https://tubnet.gg/",
     "addresses": [
         "tubnet.gg"
     ],
@@ -9,5 +10,14 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.19"
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#f88e02",
+    "secondaryColor": "#21aded",
+    "socials": {
+        "twitter": "TubNet",
+        "discord": "https://discord.com/invite/tubnet",
+        "youtube": "UCYd_qJ7idcWMWmPQJqmwahQ",
+        "twitch": "tubnet",
+        "tiktok": "tubnetgg"
+    }
 }

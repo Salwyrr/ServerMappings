@@ -1,7 +1,12 @@
 {
     "id": "pixelcade",
     "name": "Pixelcade",
+    "website": "https://pixelcade.net/",
+    "store": "https://store.pixelcade.net/",
     "addresses": [
         "pixelcade.net"
-    ]
+    ],
+    "primaryAddress": "play.pixelcade.net",
+    "primaryColor": "#c53d4e",
+    "secondaryColor": "#844ad4"
 }
